@@ -190,7 +190,7 @@ svg {
 /* Notes */
 /* Card Section */
 .card-section {
-  height:35vw;
+  height:38vw;
   display: flex;
   justify-content: space-between;
 }
